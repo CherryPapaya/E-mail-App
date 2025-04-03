@@ -2,7 +2,7 @@ package emailapp;
 
 public class EmailApp {
     public static void main(String[] args) {
-        Email email = new Email("Obi Wan", "Kenobi");
+        Email email1 = new Email("Obi Wan", "Kenobi");
     }
 
 }
